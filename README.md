@@ -17,6 +17,6 @@ API zawiera endpoint do aktualizowania pokemonów
 Api zawiera endpoint do usuwania 
 -pokemon?id="?" jeśli istnieje to usuwany jest pokemon o danym ID.
 
-Niestety z powodu braku czasu musiałem się ograniczyć do wykonania jednego dodatkowego podpunktu. Mam nadzięję, że poprawność wykonanego 
+Niestety z powodu braku czasu (niecały dzień) musiałem się ograniczyć do wykonania jednego dodatkowego podpunktu. Mam nadzięję, że poprawność wykonanego 
 zadania pozwoli na udział w dalszym procesie rekrutacji, natomiast jeśli oczekują Państwo wykonania zadania w większym zakresie,
-jestem chętny do podjęcia się wyzwania przez weekend. 
+jestem chętny do dokończenia zadania. 
